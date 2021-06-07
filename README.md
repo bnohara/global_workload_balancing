@@ -6,3 +6,4 @@ Our team has staff in 3 regions, let's call them region A, B, and C. Over time, 
 2. Provide a framework for determining the capacity for each region
 3. Calculate how many tasks to transfer between regions to achieve balanced volume
 
+The Jupyter notebook has the code, visualizations, and analysis for this project. The csv files are the altered query results from an internal database.
